@@ -1,0 +1,5 @@
+// /*Write a program for Insertion sort having 100 different inputs of size varying 30 to 1000,
+//  Program must record the size of input and no of comparisons done for each size.
+//  */
+
+ 
